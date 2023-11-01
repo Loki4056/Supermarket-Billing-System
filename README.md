@@ -1,4 +1,5 @@
-#Supermarket Billing System
+**#Supermarket Billing System**
+
 Supermarket Billing System is a simple application that allows users to manage the inventory and sales of a supermarket. It is written in Python using the Tkinter GUI toolkit. It has two modes: admin and cashier. The admin mode allows users to add, update, delete, and view products and categories in the database. The cashier mode allows users to scan products, generate bills, and print receipts. It has a simple and user-friendly interface that resembles a real supermarket billing system.
 
 Installation
